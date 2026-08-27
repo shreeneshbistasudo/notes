@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "100e7689906b2909",
+        "id": "320ad6b4a6125f81",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c83e84c3a0aeb5",
+            "id": "304bc9c0ff7107f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HW/Always.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Always"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,14 +167,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c83e84c3a0aeb5",
+  "active": "304bc9c0ff7107f5",
   "lastOpenFiles": [
+    "Programming/Python.md",
+    "Programming",
+    "Excalidraw/Drawing 2026-08-07 17.47.32.excalidraw.md",
+    "Excalidraw",
     "Archive/codex.md",
     "Excalidraw/Drawing 2026-05-31 07.44.21.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2026-05-31 07.42.05.excalidraw.md",
     "Archive/mcp.md",
     "Archive/Gemini 1.md",
