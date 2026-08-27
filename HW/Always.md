@@ -1,2 +1,2 @@
-[x] Samajik Project
-[x] Computer project and homework
+- [ ] Samajik Project
+- [ ] Computer project and homework
