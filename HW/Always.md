@@ -1,2 +1,8 @@
-- [ ] Samajik Project
-- [ ] Computer project and homework
+---
+id: Always
+aliases: []
+tags: []
+---
+ - [ ] Samajik Project
+
+- [ ]  Computer project and homework
